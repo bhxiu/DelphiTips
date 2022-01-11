@@ -1,6 +1,6 @@
 procedure GetColMaxDataLength(ASGrid: TStringGrid);
 var
-  MaxColLength,                  
+  MaxColLength, 
   CellLength: Integer;
   ACol,ARow: Integer;
 begin
