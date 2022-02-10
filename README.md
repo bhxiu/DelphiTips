@@ -5,4 +5,5 @@
 #### Temp directory and temp file (Jan. 17, 2022)
 #### Using XML and XSLT with Delphi 5 and WebBroker (By Vincent Parrett)
 #### Sample of using xslt 1.0 in Delphi (Jan. 18, 2022)
-#### KeyCloak (Nov. 7, 2022)
+#### KeyCloak (Feb. 7, 2022)
+#### Free TStringList (Feb. 10, 2022)
